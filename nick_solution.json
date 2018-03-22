@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "color": "red", 
+      "firstname": "Kathy", 
+      "lastname": "Cameron", 
+      "phonenumber": "613-658-9293", 
+      "zipcode": "14312-3121"
+    }, 
+    {
+      "color": "yellow", 
+      "firstname": "Jamie", 
+      "lastname": "Stevenson", 
+      "phonenumber": "028-164-6574", 
+      "zipcode": "84880"
+    }, 
+    {
+      "color": "purple", 
+      "firstname": "Sam T.", 
+      "lastname": "Washington", 
+      "phonenumber": "353-791-6380", 
+      "zipcode": "85360"
+    }
+  ], 
+  "errors": [
+    3
+  ]
+}
